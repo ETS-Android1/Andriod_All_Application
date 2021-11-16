@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NSU International Batch2018</string>
+    <string name="promt">Only Software Engineering 2018 Can Access </string>
+    <string name="na"> Name</string>
+    <string name="pass">Password</string>
+    <string name="name"> Enter Your SureName</string>
+    <string name="password">Enter Your Student Id </string>
+    <string name="longin"> LogIn</string>
+</resources>

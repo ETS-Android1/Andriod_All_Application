@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NSUBucks</string>
+    <string name="name">CNUBUCKS</string>
+    <string name="hintsname"> Email Or Phone</string>
+    <string name="hintspassword"> Password</string>
+    <string name="singup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="haveAccount">Already Have An Account ?</string>
+    <string name="Register">Register</string>
+    <string name="forget">Forget Password</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess Game</string>
+    <string name="big">Too big</string>
+    <string name="small">Too big</string>
+    <string name="prompt">Input a two digit integer then press guess</string>
+    <string name="con">Congratulation </string>
+    <string name="result">Result</string>
+    <string name="btn">Guess</string>
+
+</resources>

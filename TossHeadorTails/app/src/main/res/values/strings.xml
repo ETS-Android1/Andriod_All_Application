@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toss,Head or Tails</string>
+    <string name="start">Start</string>
+    <string name="display">Welcome to Your Lucky  Toss </string>
+    <string name="option">Select Game </string>
+    <string name="hints">Ask Your Partner To Choose Head or Tail Then Touch The Coin </string>
+    <string name="result">Result</string>
+    <string name="Head">Head</string>
+    <string name="Tail">Tail</string>
+</resources>

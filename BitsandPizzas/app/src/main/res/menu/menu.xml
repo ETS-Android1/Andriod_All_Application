@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item android:id="@+id/action_create_order"
+            android:title="@string/create_order"
+            android:icon="@drawable/ic_add_black_24dp"
+            android:orderInCategory="1"
+            app:showAsAction="always" />
+
+    <item android:id="@+id/action_create_share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:orderInCategory="2"
+        app:actionProviderClass="androidx.appcompat.widget.ShareActionProvider"
+        app:showAsAction="ifRoom" />
+<!--    <item android:id="@+id/action_create_message"-->
+<!--        android:title="@string/message"-->
+<!--        android:icon="@drawable/ic_message_black_24dp"-->
+<!--        android:orderInCategory="3"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+
+</menu>
+

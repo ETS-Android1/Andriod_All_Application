@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="open">Open New Activity</string>
+    <string name="second">This the second Activity  </string>
+</resources>

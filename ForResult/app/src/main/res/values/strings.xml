@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForResult</string>
+    <string name="prompt">Enter your name</string>
+    <string name="btn1_msg">SEND</string>
+    <string name="btn_ren"> Return</string>
+
+</resources>

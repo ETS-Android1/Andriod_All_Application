@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string-array name="option">
+    <item> Apple</item>
+        <item> Banana</item>
+        <item> Pear</item>
+        <item> Grape</item>
+        <item> KIWI Fruits</item>
+
+    </string-array>
+</resources>

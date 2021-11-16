@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/background_dark"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:id="@+id/tv_hit"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@android:color/secondary_text_dark"
+        android:text="@string/hints" />
+
+    <ImageView
+        android:id="@+id/head_imv"
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        app:srcCompat="@drawable/coinnew" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="83dp"
+        android:text="@string/result"
+        android:textColor="@android:color/secondary_text_dark"
+        android:textAlignment="center"
+        android:textSize="50sp" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectStudy</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="singin">SingIn</string>
+    <string name="account">If You already have account</string>
+    <string name="forgetpass">ForgetPassword</string>
+    <string name="register">RegisterMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
